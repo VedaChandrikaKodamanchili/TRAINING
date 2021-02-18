@@ -1,0 +1,12 @@
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\obj\Debug\MovieCruise.csproj.CoreCompileInputs.cache
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\MovieCruise.exe.config
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\MovieCruise.exe
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\MovieCruise.pdb
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\Com.Cognizant.MovieCruise.Dao.pdb
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\obj\Debug\MovieCruise.csprojAssemblyReference.cache
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\obj\Debug\MovieCruise.csproj.CopyComplete
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\obj\Debug\MovieCruise.exe
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\obj\Debug\MovieCruise.pdb
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\Com.Cognizant.MovieCruise.Dao.dll
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\Com.Cognizant.MovieCruser.Model.dll
+D:\Training\C#\FinalCheck\MovieCruiseSol\MovieCruise\bin\Debug\Com.Cognizant.MovieCruser.Model.pdb

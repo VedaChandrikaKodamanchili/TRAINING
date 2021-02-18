@@ -1,0 +1,6 @@
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruser.Model\bin\Debug\Com.Cognizant.MovieCruser.Model.pdb
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruser.Model\obj\Debug\Com.Cognizant.MovieCruser.Model.csproj.CoreCompileInputs.cache
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruser.Model\obj\Debug\Com.Cognizant.MovieCruser.Model.dll
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruser.Model\obj\Debug\Com.Cognizant.MovieCruser.Model.pdb
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruser.Model\obj\Debug\Com.Cognizant.MovieCruser.Model.csprojAssemblyReference.cache
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruser.Model\obj\Debug\Com.Cognizant.MovieCruser.Model.csproj.CopyComplete

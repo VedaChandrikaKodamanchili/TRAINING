@@ -1,0 +1,11 @@
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\obj\Debug\Com.Cognizant.MovieCruise.Dao.csprojAssemblyReference.cache
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\obj\Debug\Com.Cognizant.MovieCruise.Dao.csproj.CoreCompileInputs.cache
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\bin\Debug\Com.Cognizant.MovieCruise.Dao.dll
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\bin\Debug\Com.Cognizant.MovieCruise.Dao.pdb
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\obj\Debug\Com.Cognizant.MovieCruise.Dao.dll
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\obj\Debug\Com.Cognizant.MovieCruise.Dao.pdb
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\bin\Debug\Com.Cognizant.MovieCruise.Model.pdb
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\obj\Debug\Com.Cognizant.MovieCruise.Dao.csproj.CopyComplete
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\bin\Debug\Com.Cognizant.MovieCruise.Model.dll
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\bin\Debug\Com.Cognizant.MovieCruser.Model.dll
+D:\Training\C#\FinalCheck\Com.Cognizant.MovieCruise.Dao\bin\Debug\Com.Cognizant.MovieCruser.Model.pdb
